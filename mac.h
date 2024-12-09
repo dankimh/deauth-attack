@@ -63,4 +63,5 @@ namespace std {
 			return std::_Hash_impl::hash(&r, Mac::SIZE);
 		}
 	};
+	
 }
